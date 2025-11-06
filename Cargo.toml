@@ -1,7 +1,10 @@
 [package]
-name = "nonogram"
+name = "tui-nonogram"
 version = "0.1.0"
 edition = "2024"
+description = "A nonogram game for the terminal."
+license = "MIT"
+repository = "https://github.com/aayushprime/tui-nonogram"
 
 [dependencies]
 ratatui = "0.26.1"
